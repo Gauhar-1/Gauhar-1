@@ -1,81 +1,68 @@
-# 👋 Hi, I'm Gauhar-1! <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43W/giphy.gif" width="45" align="center">
+<!-- README.md for Gauhar-1 -->
 
----
-
-## 🚀 About Me
-
-Hi! I'm Gauhar-1, a passionate developer who treats coding like a game—each day is a new quest, every bug is a mini-boss, and every project is a new achievement unlocked!  
-I'm always leveling up my skills, taking on new challenges, and contributing wherever I can.
-
----
-
-## 🎯 My GitHub Stats
-
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauhar-1&show_icons=true&theme=tokyonight" alt="Gauhar-1's GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauhar-1&layout=compact&theme=tokyonight" alt="Top Languages Used" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight" height="155" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🛡️ Skills & Power-Ups
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/> 
-  <img src="https://skillicons.dev/icons?i=react,typescript,express,html,java,websocket,nextjs,threejs,tailwind" width="350"/>
-</p>
-<p align="center">
-  <b>React &nbsp; | &nbsp; TypeScript &nbsp; | &nbsp; Express &nbsp; | &nbsp; HTML &nbsp; | &nbsp; Java &nbsp; | &nbsp; WebSockets &nbsp; | &nbsp; WebRTC &nbsp; | &nbsp; Next.js &nbsp; | &nbsp; Three.js &nbsp; | &nbsp; TailwindCSS</b>
-</p>
-
----
-
-## 🏅 Achievements & Milestones
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Gauhar-1" alt="Gauhar-1's Github Contributions" width="650"/>
-</p>
-
-**Top Project**
-
-<p align="center">
-  <a href="https://github.com/Gauhar-1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AF1F7&width=435&lines=Check+out+my+top+project!+;Open+source+enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
-    <br/>
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Project Demo"/>
-    <br/>
-    <b>Gauhar-1</b>
+# Gauhar-1 
+<p align="start">
+  <a href="https://www.linkedin.com/in/md-gohar-khan-bb9275321" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Gauhar-1" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mdg_ug_22@mech.nits.ac.in">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Email" width="30" height="30"/>
   </a>
 </p>
 
-- 🕹️ Created and maintained multiple public repositories
-- 🐞 Fixed bugs and contributed to open source
-- 🛠️ Built and deployed full-stack applications
-- 🌱 Always learning and exploring new tech
-- 👀 Profile viewed by awesome recruiters like you!
+
+
+— My code compiles. Most days. That’s character development.
+
+🎯 Full-Stack Developer | Open Source Enthusiast | Final Boss to Bugs  
+💻 React ⚔️ Express ⚙️ MongoDB 🎨 Tailwind 🚀 TypeScript  
+
+> _“Probably writing better code than your cousin’s startup.”_
 
 ---
 
-## 🎬 My Coding Mood
+## 🛠️ Tech Stack & Power-Ups
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/WahEge-s7NUAAAAC/coding-gif.gif" width="350" alt="Coding Meme"/>
-</p>
+![Tech](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,java,tailwind,threejs)
 
 ---
 
-## 💌 Let's Connect!
+## 📈 GitHub Dashboard
 
-- GitHub: [Gauhar-1](https://github.com/Gauhar-1)
-- Email: mdg_ug_22@mech.nits.ac.in
-- LinkedIn: [MGk](https://www.linkedin.com/in/md-gohar-khan-bb9275321)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gauhar-1&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Gauhar-1's+GitHub+Stats)
+              ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauhar-1&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧩 Profile Summary
+
+Some people use a GitHub username. I built a dev identity — call me Gauhar-1.
+
+I build full-stack apps, squash bugs like side quests, and treat every repo like it's part of a boss-level campaign.
+I don't just code for the compiler's approval — I design backend workflows that scale, UIs that click, and experiences that feel like magic (or at least don’t crash).
+
+🧠 Self-taught in some parts, battle-tested in others
+
+🧰 React, Node, TypeScript, MongoDB — the usual suspects
+
+💬 WebSockets, WebRTC, and the occasional philosophical argument about tabs vs spaces
+
+🛠 Built full-stack platforms from scratch (with way too much coffee)
+
+🎯 Currently chasing clean code, cool side projects, and interesting teams
+
+If you're looking for a dev who ships fast, learns faster, and brings a little swagger to GitHub — welcome to the profile.
+
+![Contributions](https://ghchart.rshah.org/Gauhar-1)
+
 
 ---
 
-> _"Every repo is a new adventure. Ready to party up?"_
+> _“Every repo is an origin story. Yours starts here.”_  
+> _Now go fork something cool._
 
----
