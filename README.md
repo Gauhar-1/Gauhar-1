@@ -20,8 +20,6 @@
 🎯 Full-Stack Developer | Open Source Enthusiast | Final Boss to Bugs  
 💻 React ⚔️ Express ⚙️ MongoDB 🎨 Tailwind 🚀 TypeScript  
 
-> _“Probably writing better code than your cousin’s startup.”_
-
 ---
 
 ## 🛠️ Tech Stack & Power-Ups
