@@ -11,26 +11,24 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   &nbsp;
-  <a href="mailto:mdg_ug_22@mech.nits.ac.in">
-    <img src="https://img.shields.io/badge/EMAIL-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  
+  <a href="https://x.com/gau___har" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" />
   </a>
   &nbsp;
-  <a href="https://github.com/Gauhar-1">
-    <img src="https://img.shields.io/badge/GITHUB-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+
+  <a href="mailto:mdg_ug_22@mech.nits.ac.in">
+    <img src="https://img.shields.io/badge/GMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+
+  <a href="https://portfolio-dun-nine-53.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-7E22CE?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
   </a>
 </div>
 
 <br />
-<hr style="border: 1px solid #1e293b;" />
 
-<h2 align="center">📈 Performance Metrics</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/Gauhar-1" alt="Contributions" width="100%" />
-</div>
 
 <hr style="border: 1px solid #1e293b;" />
 
@@ -117,6 +115,16 @@
     </td>
   </tr>
 </table>
+<hr style="border: 1px solid #1e293b;" />
+
+<h2 align="center">📈 Performance Metrics</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/Gauhar-1" alt="Contributions" width="100%" />
+</div>
 
 
 
