@@ -21,6 +21,18 @@
 </div>
 
 <br />
+<hr style="border: 1px solid #1e293b;" />
+
+<h2 align="center">📈 Performance Metrics</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/Gauhar-1" alt="Contributions" width="100%" />
+</div>
+
+<hr style="border: 1px solid #1e293b;" />
 
 <table border="0" width="100%">
   <tr>
@@ -106,16 +118,7 @@
   </tr>
 </table>
 
-<hr style="border: 1px solid #1e293b;" />
 
-<h2 align="center">📈 Performance Metrics</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/Gauhar-1" alt="Contributions" width="100%" />
-</div>
 
 <br/>
 
