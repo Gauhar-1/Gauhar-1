@@ -1,66 +1,127 @@
-<!-- README.md for Gauhar-1 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=280&section=header&text=Gauhar-1&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Architect%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Bug%20Slayer&descAlignY=55&descAlign=50" alt="Gauhar-1 Header" width="100%" />
 
-# Gauhar-1 
-<p align="start">
-  <a href="https://www.linkedin.com/in/md-gohar-khan-bb9275321" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Gauhar-1" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:mdg_ug_22@mech.nits.ac.in">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Email" width="30" height="30"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=My+code+compiles...+mostly.;.Building+scalable+MERN+applications.;.Designing+experiences,+not+just+UIs.;Welcome+to+the+repository." alt="Typing SVG" />
   </a>
-</p>
+</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-gohar-khan-bb9275321" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="mailto:mdg_ug_22@mech.nits.ac.in">
+    <img src="https://img.shields.io/badge/EMAIL-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Gauhar-1">
+    <img src="https://img.shields.io/badge/GITHUB-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  </a>
+</div>
 
+<br />
 
-— My code compiles. Most days. That’s character development.
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👋 The Engineering Architect</h2>
+      <p>
+        I am a <b>Full-Stack Developer</b> with the discipline of a <b>Mechanical Engineer</b>. 
+        While others just write code, I build systems. My background in <i>Fluid Dynamics</i> and <i>Complex Systems</i> has taught me that every variable matters—whether it's a Reynolds number in a pipe or a state variable in Redux.
+      </p>
+      <ul>
+        <li>🔭 <b>Building:</b> Scalable MERN Stack Applications & Real-time Systems (Socket.IO)</li>
+        <li>🎓 <b>Researching:</b> Non-Newtonian Fluid Impingement (CFD)</li>
+        <li>💼 <b>Experience:</b> Architected <i>Rajyasampark</i> (Political Campaign Command Center)</li>
+        <li>⚡ <b>Philosophy:</b> "Functionality is mandatory. Performance is non-negotiable."</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/Gauhar-1?tab=repositories">
+        <img src="https://img.shields.io/badge/View_My_Projects-38BDF8?style=flat-square&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td width="40%" align="center">
+      <h3 align="center">Currently Coding</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauhar-1&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=38BDF8&title_color=fff" width="100%" />
+    </td>
+  </tr>
+</table>
 
-🎯 Full-Stack Developer | Open Source Enthusiast | Final Boss to Bugs  
-💻 React ⚔️ Express ⚙️ MongoDB 🎨 Tailwind 🚀 TypeScript  
+<hr style="border: 1px solid #1e293b;" />
 
----
+<h2 align="center">🛠️ The Technical Arsenal</h2>
 
-## 🛠️ Tech Stack & Power-Ups
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="130"><b>CORE</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,cpp,ts,js&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>FRONTEND</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>BACKEND</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>TOOLS</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-![Tech](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,java,tailwind,threejs)
+<br/>
 
----
+<h2>🏆 Featured Deployments</h2>
 
-## 📈 GitHub Dashboard
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗳️ RajyaSampark</h3>
+      <p align="center"><i>Political Command Center & Volunter Management</i></p>
+      <p>
+        An integrated full-stack dashboard for campaign management. Handles volunteer data, voter analytics, and real-time task assignment.
+        <br/><br/>
+        <b>Tech:</b> React, Node.js, MongoDB, Express
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ Personal Portfolio</h3>
+      <p align="center"><i>Next-Gen Developer Identity</i></p>
+      <p>
+         A high-performance personal site featuring GSAP animations, ShadCN UI components, and optimized Next.js rendering. 
+        <br/><br/>
+        <b>Tech:</b> Next.js, TypeScript, GSAP, Tailwind
+      </p>
+    </td>
+  </tr>
+</table>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gauhar-1&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Gauhar-1's+GitHub+Stats)
-              ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauhar-1&layout=compact&theme=tokyonight&hide_border=true)
+<hr style="border: 1px solid #1e293b;" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight&hide_border=true)
+<h2 align="center">📈 Performance Metrics</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauhar-1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/Gauhar-1" alt="Contributions" width="100%" />
+</div>
 
----
+<br/>
 
-## 🧩 Profile Summary
-
-Some people use a GitHub username. I built a dev identity — call me Gauhar-1.
-
-I build full-stack apps, squash bugs like side quests, and treat every repo like it's part of a boss-level campaign.
-I don't just code for the compiler's approval — I design backend workflows that scale, UIs that click, and experiences that feel like magic (or at least don’t crash).
-
-🧠 Self-taught in some parts, battle-tested in others
-
-🧰 React, Node, TypeScript, MongoDB — the usual suspects
-
-💬 WebSockets, WebRTC, and the occasional philosophical argument about tabs vs spaces
-
-🛠 Built full-stack platforms from scratch (with way too much coffee)
-
-🎯 Currently chasing clean code, cool side projects, and interesting teams
-
-If you're looking for a dev who ships fast, learns faster, and brings a little swagger to GitHub — welcome to the profile.
-
-![Contributions](https://ghchart.rshah.org/Gauhar-1)
-
-
----
-
-> _“Every repo is an origin story. Yours starts here.”_  
-> _Now go fork something cool._
-
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Final+Year+Undergrad+@+NIT+Silchar;Open+to+SDE+Roles+%26+Collaborations;Let's+build+something+impossible." />
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=60&section=footer" width="100%" />
+</div>
